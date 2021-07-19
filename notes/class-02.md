@@ -1,4 +1,4 @@
-# Relationship between HTML, CSS, & JavaScript
+# Tidbits pertaining to HTML, CSS, & JavaScript
 
 ### HTML Text Semantics
 
