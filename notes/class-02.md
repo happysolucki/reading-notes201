@@ -24,4 +24,16 @@ Be aware of the fact that there are some inconsistencies between browsers for ce
 
 ### Creating Variables & Arrays
 
+Variables are named values that can store any type of JavaScript value. Arrays are somewhat like this, but they're more like containers that can hold several other values.
 
+Creating variables & arrays will typically look like this:
+```JavaScript
+// variable declaration
+let student = 'Karissa';
+
+// array declaration
+let subjects = ['Math', 'Biology', 'Health & Wellness', 'Social Studies', 'Digital Arts & Design'];
+
+```
+
+The keyword `let` basically tells JavaScript that you want make a declaration of some sort, which in this case is for a variable & an array. Note that `let` can be substituted for `var` or `const`. The optimal keyword to use will depend on how you actually plan using said variable or array. The word following a declaration keyword is the name of your variable. This is the name that'll be used as a reference to whatever data you assigned to it. You might have also noticed that square brackets where used in the array declaration. Those brackets are required to declare an array. They basically denote that the variable is responible for a collection of values.
