@@ -1,4 +1,4 @@
-# HTML Lists, CSS Box Model, & JS Control Flow
+# HTML Lists, CSS Box Model, & Accessing Array Values
 
 ### Lists
 
@@ -39,3 +39,21 @@ In these types of lists, there's a term (represented by `dt`) accompanied by a d
 ### CSS Box Model
 
 ![Box Model](../assets/box-model.png) 
+
+The illustration above demonstrates what the box model is. You should probably look at every element as if it was a box. The four main components of the box model are:
+
+- Content *(the actual content of the element)*
+- Padding *(whitespace around the content, but still within the border)*
+- Border *(border box that wraps around the padding & content)*
+- Margin *(wraps around the content, padding, and border as whitespace between this box and other elements)*
+
+### Accessing values in arrays
+
+Since arrays are essentially collections of values, there's often a need to access a singular item in said collections. There's a pretty easy way to do that. Say we make an array:
+`let cereals = ['fruit loops', 'cocoa puffs', 'trix', 'vanilla chex'];`
+
+If we wanted to store the value `'cocoa puffs'` into a variable named 'chocolate', we'd do it like this:
+
+`let chocolate = cereals[1];`
+
+Values that are stored inside arrays are indexed. These values can be accessed by referencing the array with square brackets appended to the end of it. The integer inside of the brackets respresents the index you're attempting to access. Please note that the first item in an array always has an index of zero.
