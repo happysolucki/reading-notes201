@@ -8,24 +8,25 @@ elements, which indicate the start of each table row. The `<tr>` elements usuall
 contain `<td>` elements represent table cells. Here's an solid example of creating
 a table:
 
-```js
+```html
 <table>
-    <tr>
-        <td>7</td>
-        <td>14</td>
-        <td>21</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>16</td>
-        <td>24</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>18</td>
-        <td>27</td>
-    </tr>
-<table>
+  <tr>
+    <td>7</td>
+    <td>14</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>16</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>18</td>
+    <td>27</td>
+  </tr>
+  <table></table>
+</table>
 ```
 
 Table headings can also be added using the `<th>` element. These sort of function
