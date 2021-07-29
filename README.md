@@ -13,5 +13,6 @@ Hello, my name is Brandon Keefer. I've never had a real job but I have helped my
   5. [JS Object Literals & the DOM](notes/objlitdom.md)
   6. [HTML Tables & JS Constructor Functions](notes/tableconstructor.md)
   7. [CSS Layout](notes/layout.md)
+  8. [Forms](notes/forms.md)
 
 #### [Github](https://github.com/happysolucki)
