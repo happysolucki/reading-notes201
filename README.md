@@ -14,6 +14,7 @@ Hello, my name is Brandon Keefer. I've never had a real job but I have helped my
   6. [HTML Tables & JS Constructor Functions](notes/tableconstructor.md)
   7. [CSS Layout](notes/layout.md)
   8. [Forms](notes/forms.md)
-  8. [Error Handling and Debugging](notes/errorhandling.md)
+  9. [Error Handling and Debugging](notes/errorhandling.md)
+  10. [Audio, Video, and Images](./notes/audiovidimg.md)
 
 #### [Github](https://github.com/happysolucki)
