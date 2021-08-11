@@ -17,5 +17,6 @@ Hello, my name is Brandon Keefer. I've never had a real job but I have helped my
   9. [Error Handling and Debugging](notes/errorhandling.md)
   10. [Audio, Video, and Images](./notes/audiovidimg.md)
   11. [Chart.js](./notes/chartjs.md)
+  12. [Local Storage](./notes/lstorage.md)
 
 #### [Github](https://github.com/happysolucki)
